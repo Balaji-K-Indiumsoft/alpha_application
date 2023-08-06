@@ -1,0 +1,23 @@
+.contant{
+    height: 100px;
+    margin: 100px;
+    padding: 100px;
+    border: solid;
+    background: cadetblue;
+}
+label{
+    font-family: sans-serif;
+    margin: 5px;
+}
+input{
+    margin: 10px;
+    width: 160px;
+    background-origin: padding-box;
+}
+button{
+    margin: 10px;
+    width: 70px;
+    display: inline-flex;
+    height: 25px;
+    padding: 3px;
+}
